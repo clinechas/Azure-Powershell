@@ -1,0 +1,2 @@
+Connect-MsolService
+Get-MsolAccountSku | export-csv c:\scripts\skus.csv
